@@ -1,5 +1,6 @@
 ## KLOSKY
-This project was done for EIACD class in college, 2 semester of first year.
+This work was developed by João Barão and Marta Longo for EIACD class in college, 2 semester, 1 year. 
+
 Our project uses AI to solve the game as fast as possible with various informed search algorithms.
 
 ## TO PLAY THE GAME
